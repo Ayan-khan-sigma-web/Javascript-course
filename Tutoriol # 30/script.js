@@ -1,0 +1,1 @@
+//Exercise 2 - Snake, Water and Gun| JavaScript Tutorial in #30
